@@ -19,6 +19,8 @@ Molte persone usano il termine "OD&D" in un senso molto più ampio del mio, incl
 
 Se trovate questo sito utile, vi prego di considerare una donazione per aiutarmi a coprire i costi di hosting. Qualsiasi aiuto è apprezzato!
 
+[NdT: il sito purtroppo non è più attivo da anni]
+
 # Abilità e Bonus
 Una delle qualità più distintive di OD&D sono le sue regole per gestire i bonus di abilità e,in generale, la sua filosofia riguardo ai bonus. Rispetto alle versioni successive del gioco, i bonus di OD&D sono poco comuni. Questo significa che l'effetto di un bonus di +1 in OD&D è maggiore di un bonus di +1 in B/X, BECM, AD&D o 3E D&D; è necessario un vantaggio veramente significativo prima di ricevere un bonus di +1 (per esempio una spada magica). Considera che la Str non influisce sull'attacco o sui tiri per danni. La Dex non influenza la Classe Armatura. La Dex influisce sui tiri per attaccare a distanza, ma il più grande bonus che puoi ricevere da una Dex alta è +1. E così via.
 
