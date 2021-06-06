@@ -291,8 +291,8 @@ Ultimamente, tuttavia, ho desiderato un approccio più definito. Volevo una sequ
 - Il tempo di lancio degli incantesimi dipende dal livello e dal tipo di incantesimo
 
 | Livello dell'incantesimo/pergamena o del potere             | Risultato                              |
-|-------------------------------------------------------------|----------------------------------------|
-| Incantesimi di 1°-2° livello, parole di potere, ... †       | IMMEDIATO/NESSUN RITARDO GIRO COMPLETO |
+|:-----------------------------------------------------------:|:--------------------------------------:|
+| Incantesimi di 1°-2° livello, parole di potere,...†         | IMMEDIATO/NESSUN RITARDO GIRO COMPLETO |
 | Incantesimi di 3°-6° livello, pergamene di 1°-2° livello +1 | FASE DELL'INCANTESIMO                  |
 | Incantesimi di 7°-9° livello, Pergamene di 3°-6° livello    | GIRO COMPLETO                          |
 | 7°-9° livello pergamene + 1                                 | FASE DI INCANTESIMO                    |
@@ -427,7 +427,7 @@ Mi piace questa regola della casa per diverse ragioni. Primo, aggiunge alla stra
 Il mio gioco OD&D usa un sistema di sorpresa regolato dalla casa che si basa sull'esempio di sorpresa della viverna a pagina 8-9 di The Underworld & Wilderness Adventures, sulle regole di combattimento aggiuntive di Eldritch Wizardry e sulle regole di sorpresa di AD&D. Ci sono due categorie di sorpresa: sorpresa normale e sorpresa completa. La sorpresa normale permette ai nemici non sorpresi di compiere una singola azione. La sorpresa completa permette ai nemici non sorpresi due azioni (o a un nemico sorpreso un'azione).
 
 | Tiro di dado | Risultato                    |
-|--------------|------------------------------|
+|:------------:|:----------------------------:|
 | 1            | Sorpresa (1 azione)          |
 | 2            | Sorpresa completa (2 azioni) |
 | 3-6          | Nessuna sorpresa             |
@@ -446,7 +446,7 @@ A mio parere, questo problema non è critico. Le formule sono metodi diversi per
 Sto adottando una formula leggermente diversa da THAC0. Mantiene il sistema tradizionale di CA (cioè AC2 è platemail e scudo), ma usa un bonus di attacco con aggiunta, come la formula del sistema d20. I PG e i mostri hanno un bonus di attacco (calcolato da 20 - THAC0, anche se sto usando una progressione "smussata"). Quando tiri per colpire, aggiungi il tuo tiro di dado + il tuo bonus di attacco + la CA del tuo nemico. Se il totale è 20 o superiore, si colpisce.
 
 | Bonus         | DV del mostro |
-|---------------|---------------|
+|:-------------:|:-------------:|
 | Fino a 1      | +1            |
 | 1+1           | +2            |
 | Da 2 a 3      | +3            |
@@ -459,7 +459,7 @@ Sto adottando una formula leggermente diversa da THAC0. Mantiene il sistema trad
 Seguono i bonus d'attacco (arrotondati) che sto usando:
 
 | Livello | Guerriero | Mago | Chierico |
-|---------|-----------|------|----------|
+|:-------:|:---------:|:----:|:--------:|
 | F1      | +1        | +1   | +1       |
 | F2      | +2        | +1   | +1       |
 | F3      | +2        | +1   | +2       |
