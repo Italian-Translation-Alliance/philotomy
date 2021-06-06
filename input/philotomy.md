@@ -7,6 +7,7 @@ title: Le riflessioni di PHILOTOMY su Dungeons and Dragons
 Una raccolta di interpretazioni, regole della casa, espansioni e pontificazioni generali sulla natura delle regole originali di Dungeons & Dragons di Gary Gygax e Dave Arneson
 
 Di Jason Cone, ospitato originariamente su http://www.philotomy.com
+
 Traduzione di Roberto Bisceglie
 
 # Panoramica
