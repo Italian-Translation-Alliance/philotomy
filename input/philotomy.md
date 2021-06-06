@@ -11,10 +11,10 @@ Di Jason Cone, ospitato originariamente su http://www.philotomy.com
 Traduzione di Roberto Bisceglie
 
 # Panoramica
-## Di cosa si tratta in questo libro
+## Cosa tratta questo libro
 Questo libretto parla di OD&D, come viene giocato quando lo gestisco io. Quando parlo di "OD&D", mi riferisco a Original Dungeons & Dragons (pubblicato nel 1974), che includeva tre libretti: Men & Magic, Monsters & Treasure, e The Underworld & Wilderness Adventures. Ci sono stati molteplici supplementi di regole pubblicati per OD&D, tra cui Greyhawk, Blackmoor, Eldritch Wizardry, e Gods, Demigods, & Heroes. C'è anche Swords & Spells, un set di regole per miniature basato su D&D e Chainmail. Infine, considero l'Holmes Basic Set come un parente stretto della famiglia OD&D. Il mio gioco personale di OD&D consiste nelle regole dei tre libretti marroni, più regole della casa (cioè non uso molte regole dei supplementi). Deve anche molto a Meepo's Holmes Companion, che mi ha fatto iniziare il percorso di OD&D. Spero che i pensieri su questa pagina possano essere utili a qualcuno che sta pensando di organizzare un gioco di OD&D. C'è anche un link al diario della mia campagna di B4 Lost City sul web, all'indirizzo: http://www.philotomy.com/lost_city.html
 
-## Di cosa non si tratta
+## Cosa non tratta
 Molte persone usano il termine "OD&D" in un senso molto più ampio del mio, includendo nella definizione quello che io chiamerei "D&D Classico". Questa pagina NON riguarda i set B/X del 1981 (Moldvay/Cook/Marsh), i set BECMI (a partire dal Set Base del 1983 di Frank Mentzer), o la Rules Cyclopedia. Non riguarda nemmeno AD&D o D&D basato sulla 3a edizione/d20. Ho giocato a tutte queste versioni e mi sono piaciute in un modo o nell'altro, ma mi sono divertito di più con le regole di OD&D.
 
 Se trovate questo sito utile, vi prego di considerare una donazione per aiutarmi a coprire i costi di hosting. Qualsiasi aiuto è apprezzato!
