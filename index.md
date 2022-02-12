@@ -12,8 +12,6 @@ Traduzione di Roberto Bisceglie
 
 # Indice
 
-- [Le riflessioni di PHILOTOMY su Dungeons & Dragons™](#le-riflessioni-di-philotomy-su-dungeons--dragons)
-- [Indice](#indice)
 - [Panoramica](#panoramica)
   - [Cosa tratta questo libro](#cosa-tratta-questo-libro)
   - [Cosa non tratta](#cosa-non-tratta)
@@ -65,12 +63,16 @@ Traduzione di Roberto Bisceglie
 ## Cosa tratta questo libro
 Questo libretto parla di OD&D, come viene giocato quando lo gestisco io. Quando parlo di "OD&D", mi riferisco a Original Dungeons & Dragons™ (pubblicato nel 1974), che includeva tre libretti: Men & Magic, Monsters & Treasure, e The Underworld & Wilderness Adventures. Ci sono stati molteplici supplementi di regole pubblicati per OD&D, tra cui Greyhawk, Blackmoor, Eldritch Wizardry, e Gods, Demigods, & Heroes. C'è anche Swords & Spells, un set di regole per miniature basato su D&D e Chainmail. Infine, considero l'Holmes Basic Set come un parente stretto della famiglia OD&D. Il mio gioco personale di OD&D consiste nelle regole dei tre libretti marroni, più regole della casa (cioè non uso molte le regole dei supplementi). Deve anche molto a Meepo's Holmes Companion, che mi ha fatto iniziare il percorso di OD&D. Spero che i pensieri su questa pagina possano essere utili a qualcuno che sta pensando di organizzare un gioco di OD&D. C'è anche un link al diario della mia campagna di B4 Lost City sul web, all'indirizzo: http://www.philotomy.com/lost_city.html
 
+[vai all'indice](#indice)
+
 ## Cosa non tratta
 Molte persone usano il termine "OD&D" in un senso molto più ampio del mio, includendo nella definizione quello che io chiamerei "D&D Classico". Questa pagina NON riguarda i set B/X del 1981 (Moldvay/Cook/Marsh), i set BECMI (a partire dal Set Base del 1983 di Frank Mentzer), o la Rules Cyclopedia. Non riguarda nemmeno AD&D o D&D basato sulla 3a edizione/d20. Ho giocato a tutte queste versioni e mi sono piaciute in un modo o nell'altro, ma mi sono divertito di più con le regole di OD&D.
 
 Se trovate questo sito utile, vi prego di considerare una donazione per aiutarmi a coprire i costi di hosting. Qualsiasi aiuto è apprezzato!
 
 [NdT: il sito purtroppo non è più attivo da anni]
+
+[vai all'indice](#indice)
 
 # Abilità e Bonus
 Una delle qualità più distintive di OD&D sono le sue regole per gestire i bonus di abilità e, in generale, la sua filosofia riguardo ai bonus. Rispetto alle versioni successive del gioco, i bonus di OD&D sono poco comuni. Questo significa che l'effetto di un bonus di +1 in OD&D è maggiore di un bonus di +1 in B/X, BECM, AD&D o 3E D&D; è necessario un vantaggio veramente significativo prima di ricevere un bonus di +1 (per esempio una spada magica). Considerate che la STR non influisce sull'attacco o sui tiri per danni. La DEX non influenza la Classe Armatura. La DEX influisce sui tiri per attaccare a distanza, ma il più grande bonus che potete ricevere da una DEX alta è +1. E così via.
@@ -83,13 +85,19 @@ Un altro effetto di questo approccio è che i bonus da altre fonti aumentano nel
 
 Considerate anche come la filosofia di OD&D influenzi il lancio dei punteggi di abilità. Il concetto originale dietro i punteggi di abilità era un intervallo 3-18 con "probabilità di curva a campana"; questo è facilmente generato usando 3d6. Le versioni successive del gioco hanno iniziato a rendere i bonus più alti e più comuni, introducendo "l'inflazione dei bonus". I bonus divennero molto più importanti nelle meccaniche di gioco e così l'importanza dei punteggi delle abilità aumentò. Tuttavia, la natura della curva a campana 3-18 significa che punteggi di abilità molto alti sono molto meno probabili di quelli medi. Personaggi che sarebbero stati perfettamente accettabili e fattibili nelle regole originali erano personaggi senza speranza nei sistemi "gonfiati", così le edizioni successive introdussero nuovi metodi di generazione dei punteggi di abilità per affrontare questo problema. Considerate questa citazione dal Manuale del Giocatore di AD&D: "Di solito è essenziale per la sopravvivenza del personaggio essere eccezionale (con un punteggio di 15 o superiore) in non meno di due caratteristiche di abilità". Questo può essere vero con il sistema di bonus e penalità di AD&D, ma non è vero con il sistema originale di OD&D. Tirare un personaggio usando 3d6 è un approccio assolutamente adatto in OD&D.
 
+[vai all'indice](#indice)
+
 # Combattimento astratto
 Il combattimento di OD&D è molto astratto, che è una delle ragioni per cui si svolge rapidamente, anche quando sono coinvolti molti combattenti. Nel mio gioco uso un round di combattimento di 10-12 secondi. Le regole di combattimento assumono che i combattenti stiano tirando i loro colpi migliori mentre combattono e, in situazioni standard, non prevede destinazioni specifiche per i colpi. Il tiro di attacco del vostro PG non rappresenta un singolo colpo, ma piuttosto un'intera serie di finte, colpi e manovre. Un tiro di attacco mancato non significa che avete semplicemente colpito e avete mancato, ma piuttosto che non siete riusciti a mettere a segno alcun colpo significativo. Potreste averlo mancato del tutto perché il vostro nemico ha schivato o potreste averlo colpito mentre il suo scudo lo proteggeva da tutto ciò che gli avevate inflitto; questo "descrizione colorata" dipende in gran parte dall'Arbitro, ma in termini di gioco funziona lo stesso: nessun danno inflitto. Un tiro di attacco riuscito significa che uno o più dei vostri tentativi sono riusciti a ridurre la capacità di combattimento del nemico. Questo potrebbe dipendere dal fatto che lo avete ferito fisicamente, o potrebbe significare che lo state stancando, o potrebbe significare che state spingendo la sua fortuna e abilità fino al punto di rottura o potrebbe significare che avete dato un duro colpo alla sua sicurezza. Di nuovo, questo dipende in gran parte dall'Arbitro e da come descrive la perdita di punti ferita in combattimento.
 
 A causa della natura astratta del combattimento, sono generalmente contrario a più di un tiro per round di attacco in mischia (anche se questo potrebbe non applicarsi al tiro di dardi; cfr. Iniziativa e sequenza di combattimento); dopo tutto, il tiro non rappresenta un singolo colpo, semplicemente la possibilità di infliggere danni, indipendentemente dal numero di colpi. Invece dei tiri addizionali, è quasi sempre meglio rappresentare una migliore possibilità di infliggere danni applicando un bonus al tiro di attacco o un modificatore al danno. Nel mio gioco di OD&D, i PG ricevono un singolo tiro di attacco in mischia per round (l'unica eccezione è rappresentata dai combattenti di alto livello che affrontano nemici con meno di un dado per colpire, che possono attaccare un numero di tali nemici pari al loro livello; tuttavia, anche in questo caso, il combattente ottiene un singolo tiro di mischia per ogni avversario che può attaccare). I mostri a volte ottengono attacchi multipli (anche se non così comunemente come nelle edizioni successive), ma mostri e PG non devono necessariamente seguire le stesse regole. (Se questo vi sembra ingiusto, considerate che si possono dare più punti esperienza per i mostri con un gran numero di attacchi, ad esempio, si vedano le regole per i PE di Holmes; la discrepanza tra PG e mostri viene giustificata classificando la capacità di effettuare tiri per attacchi multipli come un'abilità speciale dei mostri).
 
+[vai all'indice](#indice)
+
 # Classe Armatura
 In OD&D, la Classe Armatura è molto più di un valore fisso rispetto ad altre edizioni. Siccome si applica ai PG (e alla maggior parte dei mostri umanoidi), è più simile al "tipo di armatura". La ragione principale per cui questo è vero è che non ci sono molti modificatori alla CA. La DEX non la modifica. Armature e scudi magici non la modificano (modificano il tiro di attacco dell'avversario). Gli anelli di protezione non la modificano (funzionano come le armature magiche). E così via. Inoltre, non c'è "sovrapposizione" nelle classi armatura. Cioè, l'armatura a piastre è AC3, e non c'è nessun'altra combinazione che fa ottenere AC3 (ad esempio, non c'è una cotta di maglia + scudo). Il fatto che la CA di OD&D sia così strettamente correlata al tipo di armatura rende l'uso delle regole di Arma contro CA di Supplement I più facile da usare, se uno vi è incline.
+
+[vai all'indice](#indice)
 
 # Olio infuocato
 Usare l'olio infuocato per coprire una ritirata o attaccare un nemico è una tecnica tradizionale di D&D. L'approccio tipico è quello di preparare fiaschette di olio come bombe incendiarie, accendere gli stracci e scagliare le fiaschette contro il nemico. Un'altra tecnica comune è semplicemente lanciare la fiaschetta e ricoprire il nemico o l'area con l'olio e poi lanciare una torcia o un altro innesco. L'olio viene anche semplicemente versato sul terreno in una posizione strategica e successivamente acceso, sia come trappola che come deterrente per l'inseguimento.
@@ -112,10 +120,14 @@ Considerazioni sull'uso dell'olio infuocato:
 - Odore/fumo/mostri vaganti.
 - Nemici che imparano e si adattano alle tattiche dei PG.
 
+[vai all'indice](#indice)
+
 # Colpi chiamati
 Penso che il concetto di colpo chiamato sia poco adatto a D&D a causa della natura astratta del sistema di combattimento. A meno che non ci sia una ragione speciale per colpire un'area specifica, il combattimento di D&D presuppone che i combattenti prendano i migliori colpi possibili. Per esempio, considerate la situazione di un combattente PG che affronta un guerriero orco che indossa una cotta di maglia e un elmo. Il giocatore potrebbe dire "Gli colpisco la testa con la mia spada". Poiché questo combattimento è una situazione del tutto normale, segue i presupposti standard delle regole e il PG non dovrebbe ricevere alcun modificatore speciale al suo tiro di attacco o al danno se il suo attacco ha successo. Piuttosto, tratterei la sua affermazione come una note di colore. Potrei rispondere: "Ok, fai un tiro di attacco standard...". Se l'attacco riesce, ma fa solo un singolo punto di danno, potrei dire: "Fai un passo avanti, facendo piovere colpi intorno alla testa e alle spalle dell'orco; riesce a respingere la maggior parte dei tuoi colpi, ma uno colpisce il suo elmo, facendo uscire un sottile rivolo di sangue dalla sua tempia. Lui grugnisce e ringhia contro di te". Se l'attacco va a segno e fa sei punti di danno, potrei dire: "Fai un passo avanti, facendo piovere colpi intorno alla testa e alle spalle dell'orco; lui para selvaggiamente, facendo una smorfia mentre gli fai quasi cadere l'arma di mano, poi un feroce colpo all'indietro si connette solidamente, facendo risuonare il suo elmo come un gong. Il sangue schizza sul tuo braccio di spada, e il suo corpo che cade quasi ti strappa l'elsa dalla mano, ma tu resisti e liberi l'arma con uno scatto". Se l'attacco è mancato, potrei dire: "Tu fai un passo avanti, facendo piovere colpi intorno alla testa e alle spalle dell'orco; lui para facilmente, guidando i tuoi attacchi di lato mentre ti sogghigna con le zanne ingiallite..."
 
 Tuttavia, ci possono essere situazioni speciali che non rientrano nelle ipotesi di combattimento standard. Per esempio, una freccia scoccata per bloccare i vestiti al muro, un attacco destinato a frantumare la bottiglia della pozione nella mano di un nemico, ecc. C'è anche un precedente in D&D per colpire un punto specifico su certe creature (ad esempio l'occhio di un osservatore); tipicamente, la descrizione del mostro assegna una CA separata per questa posizione, come è appropriato. Penso che questo approccio sia superiore a un approccio che applica un modificatore standard per i colpi chiamati (ad esempio -4). Piuttosto che un modificatore "taglia unica" per queste azioni, ogni colpo chiamato dovrebbe essere gestito separatamente, con l'Arbitro che determina la difficoltà e assegna una CA o un modificatore al tiro di dado che ritiene appropriato.
+
+[vai all'indice](#indice)
 
 # Classi e Razze
 Nell'originale OD&D ci sono tre classi: Guerriero, Mago e Chierico. Oltre agli umani, i PG possono essere anche elfi, nani e hobbit (halfling). Gli umani possono essere qualsiasi classe. I PG Elfi sono una combinazione di Guerriero e Mago. I PG Nani sono Guerrieri. Anche i PG Hobbit sono Guerrieri. Mi piace lo schema a tre classi e in particolare penso che non avere la classe Ladro abbia un effetto positivo sul gioco eliminando le abilità speciali e rendendo tutti i PG partecipanti attivi nella ricerca, nel movimento furtivo, ecc. Col passare del tempo, però, mi piacciono sempre meno le razze semi-umane. Non limito i giocatori nella scelta di una razza non umana, ma tendo a preferire i PG umani nei miei giochi (e quindi approvo le limitazioni di livello imposte ai PG non umani).
@@ -129,6 +141,8 @@ Alcune brevi note su classi e razze specifiche nei miei giochi di OD&D:
 **Nani**: I PG nani sono Guerrieri, limitati al 6° livello (Mirmidone). Oltre alle abilità elencate in Men & Magic, i nani prendono solo 1/2 danno da orchi, troll e giganti (questo è un adattamento del bonus Chainmail). I nani possiedono l'infravisione e possono vedere al buio (tuttavia, questa visione speciale potrebbe non funzionare nelle ambientazioni soprannaturali o mitiche degli inferi).
 
 **Hobbit**: I PG Hobbit sono Guerrieri, limitati al 4° livello (Eroe). La loro "precisione mortale con i missili" è tradotta da Chainmail come un +1 a colpire con le fionde. Sono estremamente bravi a nascondersi nei cespugli o nei boschi (a giudizio dell'Arbitro in base alle circostanze).
+
+[vai all'indice](#indice)
 
 # Creare un dungeon "Vecchia Scuola"
 Siete tutti eccitati all'idea di gestire un dungeon tradizionale, Vecchia Scuola. Vi siedete con della carta millimetrata e delle matite. Passate un po' di tempo a disegnare una bella mappa del primo livello e iniziate ad annotare cose. Le ore passano. Vostra moglie vi chiede quando venite a letto. Improvvisamente il peso e l'enormità del compito scende su di voi, fermandovi sui vostri passi. Come potete finire? Come potete portare a termine il tutto? Come si fa a mantenere le cose fresche e interessanti per i giocatori che le affrontano? Come si può anche solo iniziare a progettare questa cosa?
@@ -189,14 +203,22 @@ Questa breve trattazione della creazione di dungeon Vecchia Scuola graffia appen
 # Stai pensando a OD&D?
 Quindi state pensando di provare OD&D? È fantastico! Se avete esperienza con altre versioni, ho alcuni suggerimenti che potrebbero aiutarti a ottenere il massimo dal sistema:
 
+[vai all'indice](#indice)
+
 ## Un approccio nuovo
 Leggete le regole e non date per scontato di sapere come funzionano le cose. Ci sono differenze che potrebbero sorprendervi.
+
+[vai all'indice](#indice)
 
 ## Giocatelo per quello che è
 Non cercate di trasformarlo nella 3E (o in qualsiasi altra cosa), affrontatelo come un gioco a sé stante. Se vi trovate a dire "questo è rotto", considerate che forse lo state guardando da una prospettiva completamente diversa da quella dei designer originali. Provate a vedere come la regola potrebbe essere interpretata in un modo che non sembri rotto. Potreste essere sorpresi di scoprire che non è rotta, sta solo operando sotto una serie di presupposti diversi da quelli a cui siete abituati. Abbracciate i presupposti del design e vi godrete il gioco di più.
 
+[vai all'indice](#indice)
+
 ## Trattenersi
 Questo è legato a "giocarlo per quello che è". Prima di tutto, lasciatemi dire che parte di ciò che rende grande OD&D è la sua apertura e la facilità con cui può essere regolato e modificato (in effetti, alcuni potrebbero sostenere che richiede regole interne). Tuttavia, all'inizio dovreste cercare di mantenere le vostre regole interne al minimo. Laddove si adottano regole della casa (e lo si farà), cercate di mantenere piccoli i cambiamenti (si veda Punteggi di abilità e bonus). Sviluppate la comprensione delle basi del gioco e del suo "spirito" prima di fare grandi cambiamenti o aggiunte.
+
+[vai all'indice](#indice)
 
 # Colpi Critici
 Non sono un grande fan dei sistemi di colpo critico in D&D; non credo che siano una buona soluzione, data la natura astratta del combattimento e dei danni. Inoltre, dato che l'Arbitro fa molti più tiri rispetto ai giocatori, i sistemi di colpo critico tendono a favorire i mostri/nemici, alla lunga. Ciononostante, ai giocatori piace una meccanica di gioco che premia i tiri fortunati e alti, quindi uso i colpi critici nel mio gioco di OD&D. (Vedi l'aggiornamento qui sotto).
@@ -206,6 +228,8 @@ Nel decidere come incorporare i colpi critici, sapevo che non volevo aggiungere 
 Un altro sistema che ho preso in considerazione (ma che ho scartato a causa del rotolamento aggiuntivo, del potenziale di danno eccessivo e della possibile complessità) sono i dadi danno "esplosivi". L'idea è che i colpi critici dovrebbero essere basati sul tiro di danno, non sul tiro "per colpire", perché il tiro di danno è quello che determina veramente quanto bene avete fatto. Quindi, un risultato massimo sul vostro tiro di danno indicherebbe un colpo critico, e voi potete tirare un dado danno extra. Se anche quello è massimo, si può aggiungere un altro tiro di dado, e così via. Tuttavia, con un dado per il danno di 1d6, questo significa che circa un attacco su sei sarà un colpo critico. Questo potrebbe essere un po' troppo. Se doveste usare i dadi esplosivi, potreste voler cambiare sia i dadi danno che il dado base per i colpi a 1d12 invece che a 1d6; allora solo l'8% degli attacchi dannosi sarebbe un colpo critico. Un'altra variante è quella di dimezzare il dado esplosivo: così, se si tira un 1d12 e si ottiene un 12, si aggiunge un 1d6, poi un 1d3, e poi 1 punto. Mentre penso che i dadi esplosivi siano un approccio interessante, preferisco l'approccio "danno massimo", tutto sommato.
 
 **Addendum**: Dopo aver subito dei colpi critici, i giocatori del mio gioco OD&D hanno votato per fare a meno del sistema dei colpi critici. Sono contento di questo sviluppo. Il mio gioco non usa più i colpi critici; usa i danni standard tirati.
+
+[vai all'indice](#indice)
 
 # Danni e Punti Ferita
 In OD&D, i punti ferita sono una misura astratta della salute di un PG e della sua idoneità al combattimento. I punti ferita includono fattori come la salute fisica, la salute mentale o il morale, quanto è stanco il PG, quanto è fortunato e persino l'abilità. Quando un PG subisce danni, i punti ferita che diminuiscono rappresentano le sue risorse che vengono consumate in combattimento. Non si tratta solo di danni fisici, ma anche della stanchezza dei suoi muscoli, del sudore che gli va negli occhi, del suo respiro corto, della sua determinazione che si indebolisce, del rallentamento delle sue reazioni e dell'utilizzo delle sue riserve di abilità e fortuna. Questo significa che la descrizione del combattimento da parte dell'Arbitro deve tenere conto di questi fattori. Consideriamo un Guerriero di 10° livello con 50 Punti Ferita e un Guerriero di 1° livello con 5 Punti Ferita. Ognuno di questi Guerrieri entra in combattimento e riceve 6 punti di danno da uno spadaccino nemico. Questo danno travolge il Guerriero di 1° livello, uccidendolo. Tuttavia, il Guerriero di 10° livello è ancora in piedi, combatte e non è nemmeno terribilmente logorato. Non è davvero dieci volte più forte, fisicamente, è solo che la sua fortuna e abilità superiori gli hanno permesso di eludere o deviare il colpo che avrebbe ucciso un combattente di 1° livello. Invece di ucciderlo, ha solo consumato alcune delle sue risorse.
@@ -217,6 +241,8 @@ In OD&D, un uomo normale ha 1-6 punti ferita e tutte le armi fanno 1-6 punti fer
 Nel mio gioco OD&D, le armi a due mani tirano due dadi per il danno, prendendo il più grande dei due valori come danno effettivo inflitto. Questo dà un certo beneficio a quei PG che scelgono di usare un'arma a due mani invece di portare uno scudo. Una regola simile si applica ai PG che combattono con un'arma in ogni mano.
 
 La maggior parte dei mostri infligge anche 1-6 punti di danno, con eccezioni per creature eccezionalmente grandi o forti (usando i valori di danno di Monsters & Treasure come guida).
+
+[vai all'indice](#indice)
 
 # Il dungeon come un Sottomondo mitico
 Ci sono molte interpretazioni del "dungeon" in D&D. OD&D, in particolare, si presta ad un certo tipo di dungeon che viene spesso chiamato "megadungeon" e che io di solito chiamo "il mondo sotterraneo". C'è una scuola di pensiero sui dungeon che dice che dovrebbero essere stati costruiti con uno scopo distinto, dovrebbero "avere un senso" per quanto riguarda gli abitanti e la loro ecologia e non dovrebbero necessariamente essere il centro del gioco (dopo tutto le Miniere di Moria erano solo un posto da attraversare). Niente di tutto ciò deve essere vero per un megadungeon sotterraneo. Potrebbe esserci una ragione per cui il dungeon esiste, ma potrebbe non esserci; potrebbe semplicemente esistere. Certamente può, e forse dovrebbe, essere il centro del gioco. Per quanto riguarda l'ecologia, un megadungeon dovrebbe avere una certa quantità di verosimiglianza e coerenza interna, ma è un mondo sotterraneo: un luogo dove le normali leggi della realtà possono non essere applicate e possono essere piegate, deformate o infrante. Non è solo un luogo sotterraneo o un covo insano, il Sottomondo rosicchia il mondo fisico come un cancro caotico. È ostile agli uomini; il dungeon stesso si oppone e ostacola gli avventurieri abbastanza coraggiosi da esplorarlo. Per esempio, considerate l'approccio di OD&D alle porte e alla visione nel Sottomondo:
@@ -242,6 +268,8 @@ Alcune caratteristiche e filosofie comuni per un sottomondo mitico o megadungeon
 8. I livelli più profondi o lontani sono i più pericolosi.
 9. È una (la?) caratteristica centrale della campagna.
 10. Se abbracciate questi concetti, giocherete a OD&D secondo alcuni dei presupposti originali del gioco. E ragazzi, è divertente.
+
+[vai all'indice](#indice)
 
 # Materiale essenziale e raccomandato
 
@@ -269,6 +297,8 @@ Ovviamente, l'unico vero essenziale è il regolamento di OD&D. Tuttavia, Chainma
 
 I supplementi I-IV sono, naturalmente, interessanti e potenzialmente utili come fonte di ispirazione e regole interne. Se li usate, vi suggerisco di sceglierli, piuttosto che adottare semplicemente tutto ciò che contengono. Gran parte del materiale in essi contenuto sono aggiunte e regole della casa di varie campagne individuali. The Judges Guild First Fantasy Campaign è simile; è un libro che dettaglia la campagna Blackmoor di Dave Arneson, comprese le mappe del dungeon e una chiave approssimativa per il dungeon Blackmoor. Tita's House of Games offre una ristampa dell'originale Empire of the Petal Throne, che è un gioco con regole derivate da OD&D, come punto di partenza (inoltre, un PDF, e mappe del mondo e della città di Jakálla sono disponibili da RPGNow). Empire of the Petal Throne è un altro eccellente esempio di come le persone hanno adattato OD&D per i loro giochi. (Include anche alcune interessanti aggiunte di regole o interpretazioni che potrebbero essere applicate direttamente a OD&D (ad esempio la regola "tira tutti i tuoi dadi per colpire quando avanzi di livello"). Infine, The Dungeoneer era una rivista pubblicata dalla Judges Guild. Hanno pubblicato un Compendium dei primi sei numeri che ha dell'interessante materiale di ispirazione (ad esempio, amo l'articolo sulla magia che descrive come funziona l'incantesimo, chiama il Supplement I "quasi canonico" e finisce dicendo che potreste aver elaborato il vostro sistema per gestire l'incantesimo, quindi sentitevi liberi di ignorare l'articolo...), ma soprattutto la grande avventura, "Night of the Walking Wet".
 
+[vai all'indice](#indice)
+
 # Esperienza e Avanzamento
 Le regole di OD&D specificano due modi in cui i personaggi acquisiscono punti esperienza: sconfiggendo mostri e ottenendo tesori. I premi di esperienza vengono aggiustati dai modificatori dei punteggi dei requisiti primari del PG e dai livelli relativi (ad esempio, un PG di 6° livello che affronta una minaccia di 3° livello guadagnerà solo 1/2 del premio di esperienza normale), anche se mai sopra un rapporto 1:1 (ad esempio, un PG di 1° livello che affronta una minaccia di 3° livello non guadagna tre volte l'esperienza normale). Il tesoro assegna 1 PE per ogni valore di 1 MO. I mostri sconfitti danno 100 PE per ogni dado colpito. Notate che questa è una grande differenza rispetto al modo in cui le edizioni successive assegnano esperienza ai mostri. OD&D Supplement I offriva un nuovo sistema (adottato dalle edizioni successive) con premi molto più piccoli, e ha persino definito "ridicolo" lo schema originale dei premi. Tuttavia, io non lo trovo ridicolo. Lo schema originale dei premi PE tende a far avanzare i PG nei livelli bassi più rapidamente del metodo Greyhawk, ma rallenta nei livelli più alti. Mi piace questo effetto. Lo schema originale di assegnazione degli PE ha anche il vantaggio di essere semplice da usare.
 
@@ -279,6 +309,8 @@ Molti giocatori sogghignano all'idea di assegnare PE per il tesoro, preferendo p
 Come tutte le vecchie edizioni, OD&D usa diverse tabelle di avanzamento PE per le varie classi. Cioè, i combattenti richiedono 2000 PE per avanzare al secondo livello, mentre i maghi richiedono 2500 PE e i chierici solo 1500 PE. Questo è un modo in cui OD&D affronta l'equilibrio delle classi, piuttosto che usare una tabella di avanzamento universale e tentare di rendere il livello di potere di ogni classe uguale ad ogni livello. Alcuni giocatori obiettano a questo approccio, ma a me piace avere una dinamica diversa per le diverse classi (vedi i miei commenti sui maghi e la magia vanciana). Mi oppongo all'idea che un approccio "avanzamento universale / uguale livello di potere" funzioni meglio (un'affermazione che sento spesso). In pratica, penso che questo approccio sia difficile da portare a termine, specialmente se i poteri sono variabili (ad esempio i talenti o i poteri che sono scelti dal giocatore); si finisce inevitabilmente con questa o quella combinazione sbilanciata, o questa classe troppo potente, o questo potere "rotto" o altro. L'equilibrio perfetto è una bestia latrante che sfugge per sempre a coloro che la inseguono. Entrambi gli approcci hanno degli svantaggi ed entrambi gli approcci possono raggiungere una sorta di "equilibrio di base". Mentre entrambi gli approcci funzionano, io preferisco il sapore non omogeneo che offre l'approccio OD&D; penso che sia giusto - persino interessante - che le classi abbiano curve di potere diverse.
 
 Quando si avanza di livello, non richiedo che un PG si addestri, ma richiedo che il PG ritorni in una zona sicura prima di salire di livello; non si può avanzare di livello mentre si è nel dungeon, ad esempio.
+
+[vai all'indice](#indice)
 
 # Attacchi con lo sguardo
 Gli Arbitri di OD&D variano il loro approccio nei riguardi degli attacchi con lo sguardo. Preferisco pensarli come effetti dello sguardo, piuttosto che come attacchi, dato che cadono al di fuori dell'ambito dei normali attacchi. Infatti, non è necessario alcun tiro di attacco; tutto ciò che è richiesto è che la vittima guardi negli occhi della medusa, del basilisco, del vampiro o di un altro mostro con una di queste abilità mortali. Invece di un tiro di attacco, la meccanica per gestire gli effetti dello sguardo è il tiro salvezza. Considero i tiri salvezza come una "ultima possibilità" o un "evitare il disastro". Cioè, il vostro personaggio si trova in una situazione disastrosa, ma ha la possibilità di sfuggire a circostanze che sarebbero fatali per la maggior parte degli uomini. Di conseguenza, considero gli effetti di salvataggio contro lo sguardo come "evitare lo sguardo" piuttosto che "resistere allo sguardo". Incrociare lo sguardo significa morte certa; il tiro salvezza determina se il personaggio ha incrociato lo sguardo. Se lo ha fatto, ne subisce gli effetti, altrimenti è salvo.
@@ -293,6 +325,8 @@ Un mostro con effetto di sguardo costringe i personaggi che lo affrontano a effe
 
 L'Arbitro dovrebbe aggiustare questi modificatori in base al mostro e alle circostanze in questione.
 
+[vai all'indice](#indice)
+
 # Elmi
 OD&D elenca gli elmi tra gli oggetti che il PG può acquistare, ma non viene menzionato alcun beneficio nella meccanica di gioco. Questo implica che gli elmi sono dati per scontati e quindi farebbero solo parte della vostra CA complessiva. Tuttavia, questo solleva la domanda: "e quando non si indossa un elmo? Ovviamente, un nemico che affronta un uomo corazzato a testa nuda cercherà di colpire la testa nuda, ma non si lascerà sfuggire l'opportunità di colpire anche le parti corazzate del corpo. D'altra parte, il guerriero a testa nuda saprebbe ovviamente che la sua testa è vulnerabile e cercherebbe di proteggerla. In linea con il sistema astratto di combattimento di D&D, applico la seguente regola della casa a questa situazione:
 
@@ -300,10 +334,14 @@ Indossare un'armatura (cioè non include "solo lo scudo") senza un elmo garantis
 
 Indossare un elmo mentre si è altrimenti disarmati non garantisce alcun beneficio meccanico alla CA e nessuna penalità al tiro per colpire dell'attaccante. (Concedere un tale beneficio significherebbe equiparare il valore protettivo di un elmo a quello di uno scudo e non credo sia vero. In una mischia, vorrei un elmo e uno scudo, ma se dovessi sceglierne solo uno, prenderei lo scudo). Anche se un uomo altrimenti non corazzato non ottiene alcun beneficio normale da un elmo, potrebbe comunque essere utile in alcune situazioni. Per esempio, se i coboldi stanno scaricando cesti di pietre dalla cima di una scogliera, l'Arbitro potrebbe decidere che un elmo dimezzerà qualsiasi danno subito dal PG. Se una melma verde cade sulla testa del PG, indossare un elmo offrirebbe qualche beneficio. Eccetera.
 
+[vai all'indice](#indice)
+
 # Punti Ferita
 In OD&D, sei punti danno sono sufficienti per uccidere un uomo medio (vedi Danno e Punti Ferita). Le regole originali usano un d6 come dado vita di base per tutti i PG e i mostri, concedendo modificatori (ad esempio +1) o dadi vita aggiuntivi (ad esempio 2d6) all'aumentare del livello. Nella mia prima campagna di OD&D, ho usato il sistema introdotto nel supplemento di Greyhawk (e le regole di Holmes), dove ogni classe ha il suo tipo di dado vita (ad esempio d8 per i combattenti, d6 per i chierici, d4 per gli utenti della magia, ecc), e i mostri usano 1d8 come dado vita.
 
 **Addendum**: Le mie attuali campagne OD&D non usano questi valori. Invece, usano la progressione originale dei dadi vita dai Tre Libri Piccoli, sia per i PG che per i mostri. I PG tirano tutti i loro dadi vita ogni volta che avanzano di livello; se il nuovo totale di punti ferita è inferiore al vecchio totale, viene mantenuto il vecchio totale. Se perdono un livello, tirano tutti i loro dadi vita per il livello inferiore; se il nuovo totale è maggiore del vecchio totale, il vecchio totale viene mantenuto. Così, un Guerriero che è avanzato di 2° livello tira 2d6 e prende il risultato maggiore: il suo totale attuale o il suo nuovo tiro. Quando avanza al 3° livello, tira 3d6 e prende il più alto tra il suo totale attuale e il suo tiro e così via. Questo è abbastanza diverso dal modo in cui i punti ferita si accumulano nelle edizioni successive, ma funziona bene con i valori unici dei dadi ferita di OD&D.
+
+[vai all'indice](#indice)
 
 # Iniziativa e sequenza di combattimento
 OD&D non definisce regole per l'iniziativa (o per la sequenza dei round di combattimento, se è per questo), lasciando la questione all'Arbitro. Soluzioni comuni includono l'importazione delle regole da Chainmail o da versioni successive di D&D. Usare la sequenza dei turni da Swords & Spells è un'altra possibilità (qui sotto approfondisco).
@@ -311,6 +349,8 @@ OD&D non definisce regole per l'iniziativa (o per la sequenza dei round di comba
 Ho spesso mantenuto l'iniziativa e la sequenza di combattimento nebulose e flessibili. Prima si dichiarano le intenzioni. Poi l'Arbitro giudica l'azione. E' spesso ovvio che certe azioni saranno più veloci o andranno per prime. Dove c'è qualche dubbio, l'Arbitro può usare i valori di DEX relativi o le armi usate per aggiudicare o può richiedere controlli di iniziativa. Spesso, un combattimento inizierà senza usare i tiri di iniziativa, ma una volta che il caos generale della mischia inizierà, i tiri di iniziativa inizieranno a essere più comuni. (Si veda anche i pensieri di Robert Fisher sul combattimento dinamico in D&D classico).
 
 Ultimamente, tuttavia, ho desiderato un approccio più definito. Volevo una sequenza che facesse uso delle miniature e del posizionamento tattico, che tenesse conto dei diversi tempi di lancio degli incantesimi (simile all'uso dei segmenti in AD&D) e che tenesse conto dei tradizionali tassi di fuoco che D&D elenca per alcune armi missilistiche. Ho trovato una possibile risposta in un post sul forum di Knights & Knaves Alehouse di T. Foster, che suggeriva di usare la sequenza di combattimento di Swords & Spells con OD&D. L'ho trovato allettante. Il sistema forniva gli elementi che cercavo, funzionava bene con altri elementi tradizionali di D&D come il raggiungimento delle armi e il disimpegno/ritirata e nasceva direttamente dalle radici Chainmail del gioco. Sebbene sia stato progettato con l'uso di miniature in mente, il sistema è facilmente modificabile per l'uso senza miniature (vedi la discussione su Knights & Knaves).
+
+[vai all'indice](#indice)
 
 ## Sequenza di combattimento dettagliata
 1. Iniziativa: Entrambe le parti tirano 1d6 per l'iniziativa; il tiro più alto vince.
@@ -322,6 +362,8 @@ Ultimamente, tuttavia, ho desiderato un approccio più definito. Volevo una sequ
 7. Movimento: Il lato con l'iniziativa muove la restante metà della mossa
 8. Proiettli/incantesimi: I combattenti non ingaggiati lanciano i proiettili, lanciano incantesimi, ecc.
 9. Mischia: I combattenti impegnati combattono un round di mischia.
+
+[vai all'indice](#indice)
 
 ## Regole per i proiettili/attacchi a distanza
 - Gli arcieri fermi possono tirare due volte (nella fase 2 o 5 e nella fase 8)
@@ -338,6 +380,8 @@ Ultimamente, tuttavia, ho desiderato un approccio più definito. Volevo una sequ
 - I combattenti che scagliano pugnali o giavellotti possono lanciare una volta (nella fase 2, 5 o 8) e fare una mossa completa con carica.
 - I combattenti che scagliano pugnali o giavellotti possono lanciare due volte (nella fase 2 o 5 e nella fase 8) e fare una mossa completa senza carica.
 
+[vai all'indice](#indice)
+
 ## Regole per gli incantesimi
 - Un incantatore non può muovere e lanciare un incantesimo nello stesso round.
 - Un incantatore non può lanciare un incantesimo mentre è impegnato in mischia. Se l'incantatore viene ingaggiato durante il lancio, ma prima che l'incantesimo sia finito, l'incantesimo viene interrotto e perso.
@@ -353,6 +397,8 @@ Ultimamente, tuttavia, ho desiderato un approccio più definito. Volevo una sequ
 
 † Parole Sacre, Parola di Richiamo, Dispositivi, Abilità Innate.
 
+[vai all'indice](#indice)
+
 ## Regole per la Mischia e il Movimento
 (Si veda anche Movimento in Combattimento e la Tabella delle Velocità di Movimento)
 
@@ -365,10 +411,14 @@ Ultimamente, tuttavia, ho desiderato un approccio più definito. Volevo una sequ
 - Disimpegno: un combattente con un percorso libero (cioè attraverso un'area fuori dalla portata del nemico) può tentare di disimpegnarsi con un massimo di mezza mossa.
 - Ritirata: un combattente può ritirarsi dalla mischia con un movimento superiore a mezza mossa. Tuttavia, perde il beneficio del suo scudo e il suo avversario ottiene un attacco gratuito con un bonus di +2 a colpire.
 
+[vai all'indice](#indice)
+
 ## Sfondo
 Questa sequenza di combattimento è una versione leggermente modificata delle regole di combattimento di Swords & Spells (che è basata sulle regole originali di combattimento in miniatura medievale Chainmail). Trovo queste regole soddisfacenti per una serie di ragioni. In primo luogo, usano un posizionamento preciso e delle miniature per dare un tocco tattico al combattimento. Secondo, forniscono un modo semplice per includere i tempi di lancio degli incantesimi nel combattimento. Terzo, forniscono regole per sparare più proiettili in un round di combattimento. Quarto, mi piace il modo in cui il movimento è diviso in modo che le forze opposte si "incontrino nel mezzo" piuttosto che una parte chiuda tutta la distanza nel suo turno. Infine, mi piace il modo in cui queste regole si fondono e lavorano con i concetti di D&D (cadenza di fuoco, gittata dell'arma, fronteggiarsi, tempo di lancio degli incantesimi, eccetera) e che sono saldamente radicati nelle fonti tradizionali del gioco. Un ringraziamento speciale a T. Foster (e ai suoi post sui forum di Knights & Knaves Alehouse) per il suggerimento di usare questa sequenza con OD&D, e per la sua assistenza e i suoi consigli nel compilare e adattare queste regole per il combattimento uomo a uomo.
 
 Per coloro che preferiscono un set di regole più leggero per governare il combattimento o che non usano miniature, una versione semplificata di queste regole può essere sufficiente.
+
+[vai all'indice](#indice)
 
 ## Sequenza di combattimento semplice
 1. Entrambe le parti tirano 1d6 per l'iniziativa; il tiro più alto vince.
@@ -379,6 +429,8 @@ Per coloro che preferiscono un set di regole più leggero per governare il comba
 6. Mischia.
 
 Ovviamente, questa versione semplificata della sequenza di combattimento completa può richiedere qualche interpretazione e giudizio da parte dell'Arbitro. Suggerisco di usare i dettagli della sequenza completa per caratterizzare e assistere nel fare tali giudizi.
+
+[vai all'indice](#indice)
 
 # Scalamento dei livelli
 Per impostazione predefinita, OD&D non ha alcun limite superiore di livello per i PG e questo è il modo in cui attualmente gestisco le mie partite (vedi l'Addendum, sotto).
@@ -395,6 +447,8 @@ Impostare una scala come questa può aiutare l'Arbitro a mettere il suo mondo di
 
 **Addendum**: Ho riflettuto ulteriormente sulle scale di livello e mi sto chiedendo se anche il "confine morbido" di un limite di livello de facto sia necessario. Penso ancora che il 10° livello o giù di lì dovrebbe essere una sorta di picco/punto di arresto, ma mi sono reso conto che l'approccio standard ai livelli fa già questo con il suo concetto di "livello nominale", dove i dadi vita smettono di accumularsi. Il livello nominale è già una sorta di "confine morbido", sta solo all'Arbitro modellare la sua campagna con quella scala di livello in mente.
 
+[vai all'indice](#indice)
+
 # Armatura e scudi magici
 OD&D ha regole specifiche per gestire le armature e gli scudi magici. A differenza delle edizioni successive (con l'eccezione di Holmes), il bonus magico non viene aggiunto alla classe armatura del PG, ma viene sottratto dai "dadi per colpire" del nemico (solitamente interpretato come il tiro per colpire del nemico, quando si usa il sistema di combattimento "alternativo"). Questa è una distinzione che aiuta a preservare il concetto di classe dell'armatura come "classe" o "tipo", piuttosto che una semplice indicazione di quanto sia difficile colpire il PG. Inoltre, i bonus magici di armatura e scudo non si sovrappongono. Invece, le regole stabiliscono che se il bonus dello scudo è superiore, c'è una possibilità su tre che il bonus dello scudo debba essere usato contro un determinato tiro di attacco.
 
@@ -402,12 +456,16 @@ Mi piace il concetto che i bonus magici dell'armatura e dello scudo non si sovra
 
 Infine, notate che gli elfi possono lanciare incantesimi mentre indossano armature magiche, ma non mentre indossano armature non magiche.
 
+[vai all'indice](#indice)
+
 # Spade magiche
 Le regole di OD&D per le spade magiche sono diverse da quelle delle versioni successive del gioco. In OD&D, le spade magiche concedono il loro bonus come bonus "per colpire", ma non concedono un bonus ai danni, a meno che non abbiano un bonus contro una speciale categoria di nemici. Ad esempio, una spada +1 garantisce un +1 a tutti i tiri per colpire, ma niente ai tiri per i danni. Una spada +1, +3 contro i draghi garantisce un +3 ai tiri per attaccare e ai danni contro i draghi, ma +1 all'attacco e +0 ai danni contro gli altri nemici. Nota che questo non è vero per altri tipi di armi magiche. Un martello da guerra +1, per esempio, garantisce un +1 a colpire e +1 ai danni contro tutti i nemici.
 
 Le regole di OD&D presuppongono che le spade magiche siano oggetti veramente speciali; qualunque sia il motivo (a discrezione dell'Arbitro), c'è qualcosa di unico in esse che le distingue dalle altre armi magiche. TUTTE le spade magiche possiedono intelligenza e allineamento. Molte spade magiche saranno in grado di comunicare, e alcune possiedono personalità ed ego. Alcune possiedono notevoli poteri magici che trasmetteranno a chi le impugna. Alcune avranno scopi specifici che cercheranno di soddisfare. In OD&D, una spada magica può essere sia un vantaggio che un disastro e ogni spada magica che i PG troveranno sarà vista con cautela all'inizio. Anche prendere in mano una spada magica può essere pericoloso, poiché toccare un'arma dell'allineamento "sbagliato" causerà danni. Anche le spade di allineamento simile possono essere pericolose, poiché un'arma con una forte personalità può sopraffare e dominare chi la impugna, in certe situazioni. Nel mio gioco di OD&D, le spade magiche tendono a preferire i Combattenti ai Ladri, quindi mentre i Ladri possono tecnicamente maneggiare una spada magica, è probabile che il ladro abbia "difficoltà" con la sua arma.
 
 Amo queste regole. In primo luogo, rendono le spade magiche degne di nota; non c'è una "spada +1" nel mio gioco di OD&D. Secondo, modellano il modo in cui le spade magiche sono descritte nella narrazione e mi piace portare questo tipo di prospettiva nel gioco. Chi potrebbe dimenticare lame come Stormbringer, Excalibur, Andúril o Terminus Est? Quale guerriero coraggioso rinuncerebbe alla possibilità di portare una lama forgiata da un nano, anche a rischio di cadere sotto la sua influenza incantata? Inoltre, lo status speciale delle spade magiche suggerisce tutti i tipi di elementi e necessità della trama. Perché tutte le spade magiche possiedono intelligenza? Perché solo le spade? Forse la risposta a queste domande è un mistero, anche per coloro che forgiano e incantano le lame. Forse i "culti della spada" sono cresciuti, spinti non solo da un ethos guerriero, ma anche dal fatto che c'è qualcosa di unico nelle spade magiche. Il tutto mette una nuova luce sull'"enigma dell'acciaio".
+
+[vai all'indice](#indice)
 
 # Movimento in combattimento
 Le regole predefinite di OD&D presuppongono un round di combattimento di un minuto, ma lasciano le regole di movimento ambigue (probabilmente assumendo che gli Arbitri adattino le regole di Chainmail). Le regole di ingombro danno all'armatura di cuoio (leggera) un movimento di 12", alla cotta di maglia (pesante) un movimento di 9" e all'armatura a piastre (corazzata) un movimento di 6". Tuttavia, le regole di OD&D non seguono questi fattori per i nani e gli elfi (con i nani in catena + scudo che si muovono a 6" e gli elfi in catena che si muovono a 12"), suggerendo che queste razze hanno fattori di movimento di base rispettivamente più bassi e più alti. Ho adottato i seguenti fattori (leggero/pesante/armato):
@@ -428,6 +486,8 @@ I miei giochi OD&D usano un round di combattimento di 10-12 secondi, quindi ho d
 - 6" 20' per giro (40' per carica)
 - 3" 10' per giro (20' per carica)
 
+[vai all'indice](#indice)
+
 # Movimento durante l'esplorazione
 OD&D gestisce il movimento durante l'esplorazione del dungeon in turni di dieci minuti. Un personaggio ottiene due mosse (calcolate in piedi) durante un turno di dieci minuti. (Nota che questo è diverso da alcune edizioni successive che danno una sola mossa durante un turno di dieci minuti). Così, un uomo in cotta di maglia (movimento di 6"), si muoverebbe di 60 piedi x 2, o 120 piedi. Questo presuppone un movimento cauto, esplorativo e di mappatura; situazioni di fuga o di inseguimento permettono un movimento più veloce (cioè doppio), ma nessuna mappatura.
 
@@ -435,12 +495,16 @@ Il regolamento Holmes Basic offre un'interessante variazione. Usa i tassi di OD&
 
 Quindi, un uomo completamente corazzato con un carico pesante di equipaggiamento/tesori si muoverà di 60 piedi per turno mentre esplora.
 
+[vai all'indice](#indice)
+
 # Attacchi multipli
 Gli attacchi multipli di un singolo PG si verificano raramente in OD&D; normalmente, un PG ottiene un solo tiro di attacco in mischia per turno. Un Guerriero che si trova in una mischia in cui tutti i suoi nemici impegnati hanno 1HD o meno può effettuare un numero di attacchi in mischia pari al suo livello. Così, un Eroe (4° livello) che combatte contro un gruppo di goblin può attaccare quattro volte in un singolo round. Un Supereroe (8° livello) che affronta gli stessi goblin attaccherebbe otto volte ogni round! Vedo questo come la regola di OD&D "falcia i mostricciatoli"; un Guerriero di livello superiore è una forza che gli uomini normali giustamente temono.
 
 Notate che anche un singolo avversario con DV superiore nella mischia ostacolerà questa abilità, essendo una minaccia più abile o pericolosa che richiede l'attenzione del Guerriero di alto livello. Questo è un grande vantaggio per i mercenari e i gregari dei PG, poiché permette anche a un Veterano (cioè un Guerriero di 1° livello ha 1+1 DV) di impedire il massacro dei membri più deboli del party quando si trova di fronte ad un nemico pericoloso (come un Eroe malvagio). Questa regola ha la sua origine nel concetto di Chainmail di mischia fantastica contro mischia non fantastica (e il suo uso è illustrato nelle FAQ di OD&D originariamente pubblicate nella Strategic Review). Poiché i mostri nella mischia non fantastica di Chainmail ottengono attacchi multipli, estendo gli attacchi multipli anche ai mostri di OD&D. Cioè, un Orco che attacca un gruppo di uomini normali attaccherà quattro volte. Tuttavia, se tra quegli uomini c'è una guardia veterana, il combattimento è considerato fantastico e l'Orco è limitato a un solo attacco.
 
 (Questa regola esiste anche per i Combattenti in AD&D, ma è stata modificata per funzionare solo contro nemici con meno di 1HD. Specifico che questo potrebbe essere stato fatto perché un Guerriero di 1° livello in AD&D è considerato un nemico di 1HD, mentre un Guerriero di 1° livello in OD&D è considerato un nemico di 1+1HD).
+
+[vai all'indice](#indice)
 
 # Abilità del giocatore vs. abilità del personaggio
 Le regole originali di OD&D non includono un sistema di abilità definito. Come risultato, OD&D a volte chiede al giocatore di usare le sue abilità e la sua creatività durante le avventure. Questo è un approccio diverso da quello a cui molti giocatori sono abituati e utilizzarlo può richiedere qualche aggiustamento se siete abituati a gestire tutte le azioni del PG con una sorta di sistema di abilità che modella le capacità del PG. Ad alcuni giocatori non piace affatto l'idea e sostengono che il gioco dovrebbe testare le capacità del PG, non le proprie: fare affidamento sulle abilità del giocatore va contro l'idea del personaggio. Hanno ragione, ma penso che ci sia spazio per un approccio diverso nel gioco di ruolo. Si riduce al fatto che fare affidamento sull'abilità del giocatore per alcune situazioni è divertente. Penso che incoraggi anche il pensare fuori dagli schemi e l'immersione nella situazione in cui si trova il personaggio.
@@ -453,10 +517,14 @@ Considerate la seguente osservazione di Mike Mearls (uno dei principali sviluppa
 
 Penso che Mike abbia colto nel segno quando ha detto che l'approccio di OD&D soddisfa un bisogno diverso dall'approccio basato sulle abilità usato in altre edizioni. Se non avete mai provato a gestire D&D senza abilità, vi incoraggio a fare un tentativo. Potrebbe essere diverso da quello a cui siete abituati, ma è divertente.
 
+[vai all'indice](#indice)
+
 # Rose e fiori
 Per qualche ragione, quando dico agli altri giocatori che sto giocando a OD&D (o AD&D, o B/X, ecc.), sento spesso commenti sulla mia "nostalgia" o sul "vedere tutto rosa e fiori". Lo trovo sia strano che fastidioso. L'idea dietro al "vedere tutto rosa e fiori" è che la vostra percezione viene alterata, e che non state vedendo le cose come sono veramente. Se stai "vedendo tutto rosa e fiori", significa che non stai vedendo chiaramente, con l'implicazione che il tempo ha ingannato la tua memoria, facendo sembrare il passato migliore di quello che era in realtà. Vedete solo le cose belle. Perciò questo è un bel giro di parole, un'indifferente liquidazione di qualsiasi sentimento di affetto per le vecchie edizioni come OD&D. Tuttavia, anche se superficiale, la frase non si applica a me e al mio entusiasmo per OD&D.
 
 Il "vedere tutto rosa e fiori" si applica solo quando si guarda indietro ad un'esperienza. Una volta che effettivamente torni indietro e la vivi, di nuovo, la visione non è più offuscata. A quel punto, l'esperienza deve stare in piedi o cadere per i suoi propri meriti (o mancanza di essi). Non sto guardando indietro con affetto a OD&D, lo sto giocando veramente. Quando dico che mi piace, non è perché vedo le rose; è perché mi piace l'esperienza che sto avendo attualmente. Rose e fiori? No.
+
+[vai all'indice](#indice)
 
 # Pergamene
 Il mio gioco OD&D aveva le sue radici in un gioco che utilizzava le regole di base di Holmes, e di conseguenza include una regola non comune per gestire la creazione di pergamene. Le tipiche campagne di D&D della Vecchia Scuola non permettono ai personaggi di creare pergamene fino al 7° livello circa. Tuttavia, le regole Holmes Basic permettono agli utenti magici di tutti i livelli di creare pergamene, a condizione che il mago paghi il costo (100 gp per livello di incantesimo), impieghi il tempo necessario (1 settimana per livello di incantesimo) e possa lanciare l'incantesimo per cominciare (cioè che sia nel suo libro degli incantesimi). Le regole di Holmes non coprono esplicitamente la creazione di pergamene dei chierici (anche se menzionano l'esistenza delle pergamene dei chierici); tuttavia, estendo la stessa capacità ai chierici. La capacità di creare pergamene dà agli incantatori di basso livello un certo potere aggiuntivo, che può essere desiderabile o meno, a seconda del vostro punto di vista. Tuttavia, in pratica, la capacità di creare pergamene può ancora essere regolata dall'Arbitro, evitando così la "proliferazione di pergamene" nella campagna. Come Arbitro, evito che le pergamene sfuggano di mano:
@@ -471,10 +539,14 @@ Controllare il livello di astrazione dei requisiti materiali. Il costo di 100gp 
 
 Le pergamene dei chierici possiedono alcune caratteristiche uniche. Nel mio gioco OD&D, le pergamene dei chierici sono preghiere associate ad un certo allineamento o divinità. Non sono scritte in un "linguaggio magico" come le pergamene dei maghi, ma piuttosto in un linguaggio "normale" che potrebbe essere il vernacolo o forse una variante specifica della chiesa di una lingua di allineamento. Chiunque sia in grado di leggere la lingua può capire la funzione di una pergamena clericale, ma solo i chierici possono invocare gli incantesimi in essa contenuti. Anche in questo caso, un chierico potrebbe non voler invocare le preghiere se la pergamena è orientata verso un allineamento, una divinità o un ethos che è antitetico al suo. Egli può farlo, ma dovrebbe essere preparato ad affrontare le conseguenze che potrebbero sorgere (all'interno della gerarchia della chiesa o nel rapporto con la sua divinità, ecc.)
 
+[vai all'indice](#indice)
+
 # Effetti speciali degli incantesimi
 Nel mio gioco OD&D, gli incantatori hanno la possibilità di produrre effetti magici minori legati agli incantesimi che hanno memorizzato. Per esempio, un mago che ha memorizzato palla di fuoco potrebbe essere in grado di accendere la sua pipa con una piccola fiamma dal suo pollice o far uscire il fumo dalle sue orecchie quando è infastidito. Una maga che ha memorizzato Raffica di Vento potrebbe avere i suoi capelli che soffiano costantemente in una brezza altrimenti inesistente. Usare un effetto speciale non lancia o consuma l'incantesimo a cui è collegato; non sono tanto "incantesimi" quanto una prova tangibile che il mago ha memorizzato un incantesimo. Non codifico questi effetti, ma piuttosto mi affido ai giocatori per suggerire o richiedere un effetto, che poi approvo o nego. Anche se non ho una regola ferrea contro gli effetti speciali che hanno un effetto meccanico sul gioco, gli effetti speciali sono sempre effetti minori, simili ai cantrip.
 
 Mi piace questa regola della casa per diverse ragioni. Primo, aggiunge alla stranezza ultraterrena dei maghi e io amo gli elementi strani e fantastici nel mio gioco di D&D. Secondo, dà ai maghi di basso livello qualcosa di arcano e di archetipico da fare senza consumare i loro incantesimi memorizzati o abbandonare il concetto di magia vanciana. In terzo luogo, è semplicemente bello giocare un mago che può far brillare i suoi occhi o far uscire i suoi anelli di fumo di colori diversi o qualsiasi altra cosa. So che i giocatori si divertono con gli effetti speciali e si divertono anche a cercare di capire quali incantesimi ha un incantatore PNG in base a ciò che rivelano i suoi effetti speciali. L'unico vero pericolo è permettere effetti troppo potenti, che potrebbero erodere l'atmosfera del sistema magico vanciano. Sta all'Arbitro decidere caso per caso.
+
+[vai all'indice](#indice)
 
 # Sorpresa
 Il mio gioco OD&D usa un sistema di regole della casa per la  sorpresa che si basa sull'esempio di sorpresa della viverna a pagina 8-9 di The Underworld & Wilderness Adventures, sulle regole di combattimento aggiuntive di Eldritch Wizardry e sulle regole di sorpresa di AD&D. Ci sono due categorie di sorpresa: sorpresa normale e sorpresa completa. La sorpresa normale permette ai nemici non sorpresi di compiere una singola azione. La sorpresa completa permette ai nemici non sorpresi due azioni (o a un nemico sorpreso un'azione).
@@ -488,6 +560,8 @@ Il mio gioco OD&D usa un sistema di regole della casa per la  sorpresa che si ba
 Esempi di un'azione includono l'avvicinarsi al raggio d'azione (se necessario), effettuare un attacco in mischia, incoccare e scoccare una freccia da un arco, tirare con una balestra carica, ecc. Gli incantesimi possono essere iniziati come azione a sorpresa. Il fatto che abbiano effetto prima dell'inizio del round normale dipende dalle circostanze. Gli incantesimi di 1°-2° livello, le parole di potere, le parole sacre, le parole di richiamo, i dispositivi e le abilità innate hanno effetto immediatamente. Gli altri incantesimi hanno effetto nel loro posto normale all'interno del round. Come sempre, l'incantatore può lanciare un solo incantesimo durante il round, indipendentemente dalla sorpresa.
 
 La tabella qui sopra fornisce i risultati per la situazione di sorpresa standard. Le circostanze possono modificarla. Per esempio, alcuni mostri sorprendono su 3 su 6, piuttosto che su 2 su 6. In questo caso, un tiro di 3 indicherebbe che ai mostri sono concesse tre azioni di sorpresa. Allo stesso modo, alcuni mostri o personaggi potrebbero essere sorpresi solo con un 1 su 6. In questo caso, un lancio di 1 indicherebbe sorpresa normale e un lancio di 2 indicherebbe nessuna sorpresa.
+
+[vai all'indice](#indice)
 
 # THAC0?
 Quasi tutti quelli che hanno giocato alle versioni TSR di D&D conoscono il concetto di THAC0, anche se non l'hanno usato. Anche molti giocatori di D&D della "nuova scuola" sanno cos'è il THAC0. Per coloro che non hanno familiarità con esso, significa "Colpire Classe Armatura 0". È un numero che indica di quale tiro di d20 avrebbe bisogno il vostro PG per colpire un nemico con CA0. Per capire di cosa hai bisogno per colpire altre classi di armatura, devi sottrarre la CA del nemico dalla tua THAC0 (ad esempio, se la tua THAC0 è 17, e stai attaccando un nemico in cotta di maglia (CA5), devi tirare un 17-5=12).
@@ -530,6 +604,8 @@ Seguono i bonus d'attacco (arrotondati) che sto usando:
 | F15     | +12       | +7   | +9       |
 | F16     | +13       | +8   | +9       |
 
+[vai all'indice](#indice)
+
 # Ladri e abilità del ladro
 La classe Ladro non fa parte dei tre libri originali di OD&D, ma è stata aggiunta nel Supplement I. Debole in combattimento e senza incantesimi, la caratteristica principale della classe sono le sue abilità speciali come scalare pareti a strapiombo, disarmare piccole trappole meccaniche, muoversi senza fare rumore, nascondersi nell'ombra, eseguire pugnalate alle spalle a sorpresa, ecc. Con il tempo, sono arrivato a preferire il gioco senza la classe Ladro (cioè usando solo le tre classi originali). Il ruolo che il ladro gioca di solito (esploratore/spiaggia) è facilmente riempito dalle altre classi; tutti possono tentare di essere furtivi, cercare trappole, eccetera. Inoltre, senza il Ladro e le sue abilità speciali, queste attività sono spesso eseguite dal giocatore che descrive come fare, piuttosto che tirare contro un'abilità, il che penso sia molto divertente.
 
@@ -563,6 +639,8 @@ Ho postato alcune idee su una classe alternativa di Ladro di OD&D. La differenza
 - Lvl 5-8 = 18:20 (tiro 3-20 su un d20)
 - Lvl 9+ = 19:20 (tira 2-20 su un d20)
 
+[vai all'indice](#indice)
+
 # Scacciare i non morti
 L'abilità del chierico di scacciare i non morti è una di quelle aree delle regole di D&D che lascia molto aperto all'interpretazione dell'Arbitro. Domande comuni sull'argomento includono cose come:
 
@@ -588,10 +666,14 @@ Gestisco i non morti animati come gli scheletri o gli zombie in modo simile, ten
 
 In altre parole, le pressioni situazionali non interromperanno il turno, ma potrebbero influenzare il non morto scacciato in modo che si avvicini temporaneamente al chierico (o addirittura lo attacchi) per riuscire ad fuggire più lontano.
 
+[vai all'indice](#indice)
+
 # Combattimento con due armi
 Nel mio gioco OD&D, i PG ricevono tipicamente un singolo tiro di attacco in mischia per round (vedi Combattimento Astratto), quindi avevo bisogno di una regola per gestire i PG che combattono con un'arma in ogni mano. Ho ragionato sul fatto che due armi avrebbero probabilmente fatto più danni, assumendo che fossero usate con competenza, ma che sarebbe stato più difficile usare due armi in modo efficace. La mia regola della casa stabilisce che gli Guerrieri, i Ladri, gli Elfi e gli Halfling possono usare un'arma in ogni mano, effettuando un singolo tiro di attacco ogni round. Se colpiscono e hanno una DEX di 13+, tirano 2 dadi danno (cioè 2d6) e prendono il più alto dei due tiri come danno. Quelli con DEX di 12 o meno infliggono danni standard (non hanno la destrezza per ottenere un beneficio significativo dal brandire due armi).
 
 **Addendum**: sto anche valutando un'idea diversa per il combattimento con due armi. Invece di alterare il modo in cui si tira il danno, brandire due armi potrebbe risultare in una maggiore possibilità di colpire (cioè +1). Seguendo questa strada si ottengono tre opzioni di base: arma + scudo (maggiore difesa), arma + arma (maggiore possibilità di colpire), o arma a due mani (maggiore danno medio), il che è carino, meccanicamente.
+
+[vai all'indice](#indice)
 
 # Magia vanciana
 Il sistema della magia vanciana (cioè gli incantesimi che vengono memorizzati e poi "dimenticati" quando vengono lanciati) è uno degli elementi essenziali di D&D. Ammetto che si può giocare il gioco usando un sistema diverso per gestire la magia (punti incantesimo o altro), ma per il mio modo di pensare, facendo così si mette da parte un'enorme porzione dell'atmosfera che rende D&D quello che è. Amo la magia vanciana. Amo i nomi grandiosi per gli incantesimi; infatti, più grandiosi e fantastici sono, più mi piacciono (e incoraggio i miei giocatori ad usare questo tipo di nomi per i loro incantesimi). Mi piace l'idea di utenti magici che complottano per ottenere un certo incantesimo o fascino. Amo il concetto di un mago che si "attrezza" con un certo set di incantesimi quando si mette in cammino la mattina. Per un esempio del sapore originale "vanciano", leggete "Just so you know, THIS is Vancian magic".
@@ -600,11 +682,15 @@ Il mio gioco OD&D userà sempre la magia vanciana. Le lamentele sul fatto che si
 
 Non si può avere D&D senza la magia vanciana.
 
+[vai all'indice](#indice)
+
 # Scala della mappa delle terre selvagge
 Quando mappo un'area selvaggia per giocare, uso quello che ora viene chiamato un approccio "punti di luce". Questo significa che la mappa ha piccole aree o zone di relativa civiltà e sicurezza circondate da aree selvagge e pericolose. Se si segue l'impostazione predefinita delle "terre selvagge" nei libri originali di D&D, questo avviene naturalmente. Per esempio, un tipico dominio civilizzato potrebbe includere il castello di un signore e una manciata di villaggi, con l'influenza dei castelli che si estendono in un raggio di venti miglia, o giù di lì. (Vedi la descrizione di una tipica baronia a pag. 24 di The Underworld & Wilderness Adventures) Viaggiare entro questo raggio è relativamente sicuro. Al di fuori dell'influenza del castello, il selvaggio regna.
 
 Inizio con una mappa dell'Arbitro a 5 miglia per esagono. Questa mostra il villaggio di partenza dei PG, la posizione del dungeon o della rovina vicina e l'area selvaggia che circonda immediatamente questi luoghi. Una seconda "mappa della campagna" completa la mappa dell'Arbitro. La scala della mappa della campagna è tipicamente tra le 20 e le 40 miglia per esagono. Personalmente, mi piace una mappa di campagna di 25 miglia per esagono, il che significa che un singolo esagono sulla mappa di campagna può essere suddiviso in cinque esagoni di 5 miglia attraverso il centro o attraverso la faccia dell'esagono. Questo lo fa funzionare bene con la mappa Arbitro. È anche conveniente che la portata di un tipico castello o dominio è di circa 20 miglia di raggio, o circa 1 esagono sulla mappa di campagna.
 
 Tendo a tracciare il movimento in leghe (cioè la distanza che si può percorrere in un'ora). La definizione classica di una lega è da qualche parte tra 2,5 e 3 miglia. Una lega di 2,5 miglia funziona bene con la mappa dell'Arbitro di 5 miglia per esagono e la mappa di campagna di 25 miglia per esagono. Un esagono di 5 miglia è due leghe (cioè due ore di cammino) e un esagono di 25 miglia è dieci leghe (cioè una lunga giornata di duro cammino). Un'alternativa potrebbe essere una mappa dell'Arbitro di 6 miglia esagonali e una mappa di campagna di 30 miglia esagonali, che funzionerebbe bene con una lega di 3 miglia.
+
+[vai all'indice](#indice)
 
 Copyright © 2007 Jason Cone
