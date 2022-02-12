@@ -1,0 +1,13 @@
+# Site settings
+title: Le riflessioni di PHILOTOMY su Dungeons & Dragons™
+tag_text: 
+description: Una raccolta di interpretazioni, regole della casa, espansioni e meditazioni di carattere generale sulla natura delle regole originali di Dungeons & Dragons™ di Gary Gygax e Dave Arneson
+url: "https://philotomy.italiantranslationalliance.org"
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
